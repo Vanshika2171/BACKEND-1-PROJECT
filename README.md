@@ -6,7 +6,7 @@ TEAM MEMBERS
 #Vanshika Sardana
 
 
-PROEJCT DETAILS
+ABOUT PROEJCT
 A Pet Adoption website is a platform designed to connect individuals who are looking to adopt a pet with those who are willing to give their pets up for adoption. The goal of such an website is to provide a user-friendly and efficient system where potential pet owners can browse through available pets, learn about their characteristics and requirements, and apply for adoption. The app aims to reduce the number of stray and abandoned animals by facilitating the process of finding them new homes.
 
 
